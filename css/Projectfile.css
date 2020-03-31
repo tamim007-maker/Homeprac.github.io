@@ -1,0 +1,273 @@
+.underline {
+	width: 90px;
+	height: 5px;
+	background: #14a58c;
+	margin: 10px auto;
+}
+.underline2 {
+	width: 90px;
+	height: 5px;
+	background: #c8d9e5;
+	margin: 10px auto;
+}
+.underline3 {
+	width: 90px;
+	height: 5px;
+	background: #e5c37f;
+	margin: 10px auto;
+}
+.underline4 {
+	width: 90px;
+	height: 5px;
+	background: #b73c6d;
+	margin: 10px auto;
+}
+.underline5 {
+	width: 90px;
+	height: 5px;
+	background: #273a71;
+	margin: 10px auto;
+}
+
+header {
+	background: #87509c; 
+	padding-top:40px;
+	padding-bottom:140px;
+}
+.menu a .logo {
+	color: #ffffff;
+}
+.menu ul {
+	list-style: none;
+	float: right;
+	margin-top: 18px;
+}
+.menu ul li {
+	float: left;
+}
+.menu ul a {
+	color: #eae5ed;
+	float: left;
+	text-transform: uppercase;
+	padding: 10px 15px;
+}
+.menu ul a:hover {
+	text-decoration: none;
+	background: #643a79;
+	border-radius: 5px;
+}
+.front-area {
+	padding-top: 140px;
+	text-align: center;
+
+}
+.front-area h1 {
+	padding: 0 60px 60px 60px;
+	
+	color: #f7f3ea;
+}
+.front-area a {
+	color: #ffffff; 
+	background: #eb7d4b;
+	padding: 25px 80px;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+.service {
+	background: #17c2a4;
+	padding: 120px 0;
+	text-align: center;
+	color: #ffffff;
+}
+.service .service-header {
+	padding: 0 220px 75px 220px;
+}
+.service .service-header p {
+	font-size: 18px;
+}
+.service-body img {
+	padding-bottom: 60px;
+	height: 158px;
+}
+.service-body h3 {
+     text-transform: uppercase;
+     padding-bottom: 30px; 
+}
+.service-body p {
+    padding: 0 20px;
+}
+.team {
+	background: #e7f1f8;
+	padding: 120px 0;
+	text-align: center;
+	color: #3c4761;
+}
+.team-body {
+	padding-top: 70px;
+}
+.team-body h3 {
+	text-transform: uppercase;
+	font-size: 24px;
+}
+.team-body h4 {
+	font-size: 16px;
+	color: #72caec;
+	padding: 15px 0 25px 0;
+	
+}
+.team-body p {
+	padding: 0 15px;
+}
+.team-body .circle {
+	width: 200px;
+	height: 200px;
+	background: #878787;
+	border-radius: 100%;
+	margin: 0 auto 40px auto;
+	
+}
+.social-icon div {
+	width: 35px;
+	height:35px;
+	border-radius: 50%;
+	background: #bdd1df;
+	float:left; 
+	padding: 2px 0;
+	margin-right: 10px;
+	
+}
+.social-icon a {
+	font-size: 16px;
+	color: #bdd1df;
+	padding:10px;
+
+
+}
+#portfolio {
+	background: #ffdd99;
+	padding: 120px 0;
+	text-align: center;
+
+}
+.portfolio-header p {
+	padding: 0 200px; 
+}
+
+.portfolio-body .button {
+	margin-top: 30px;
+}
+.portfolio-body .button a {
+	background: #ebc985;
+	border-radius: 5px;
+	padding: 5px 20px;
+	color: #393939;
+	margin-right: 10px;
+	font-size: 18px;
+
+}
+.portfolio-body .button a.active {
+	background: #ffffff;
+}
+.portfolio-item img {
+	margin-top: 40px;
+}
+.portfolio-item h4 {
+	color: #60584a;
+	font-size:18px;
+	padding-top: 30px;
+
+}
+
+#portfolio .cta {
+	padding-top:60px; 
+}
+#portfolio .cta a {
+	background: #17c2a4;
+	color: #ffffff;
+	padding: 10px 40px;
+	border-bottom: 2px solid #14a58c;
+}
+#testimonial {
+	background: #d74680;
+    padding: 120px 0;
+    color: #ffffff;
+}
+#testimonial .testimonial-head {
+	text-align: center;
+}
+#testimonial .testimonial-head p {
+	padding-top: 10px;
+}
+#testimonial .testimonial-body {
+	padding-top: 70px;
+}
+
+#testimonial .testimonial-body .client {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: #787878;
+    float: left;
+    margin: 0 20px 50px 0;
+}
+#testimonial .testimonial-item {
+    padding-bottom: 100px;
+}
+#testimonial .testimonial-item .client-comment blockquote {
+    padding-right: 60px;
+}
+#testimonial .testimonial-item .client-comment h3 {
+	font-size: 24px;
+	text-transform: uppercase;
+}
+#testimonial .testimonial-item .client-comment h4 {
+	color: #efa18f;
+	font-size: 18px;
+}
+#rsvp {
+	background: #3c5499;
+	padding:120px 0;
+	text-align: center;
+}
+#rsvp .rsvp-head {
+    color: #ffffff;
+}
+#rsvp .rsvp-body input, #rsvp .rsvp-body textarea {
+	width: 100%;
+	background: #273a71;
+	border: none;
+	border-radius: 5px;
+	color: #ffffff;
+	padding: 0 15px;
+	margin-bottom: 25px;  
+}
+#rsvp .rsvp-body {
+	padding-top: 70px;
+}
+#rsvp .rsvp-body input {
+	height: 55px;
+}
+#rsvp .rsvp-body textarea {
+	height: 200px;
+}
+#rsvp .cta {
+     padding-top: 60px;
+	 margin: 0 auto;
+}
+#rsvp .cta button {
+	background: #30bae7;
+	color: #ffdd99;
+	padding: 15px 60px;
+	border: none;
+	border-bottom: 4px solid #299ec5;
+	border-radius: 5px;
+
+}
+
+
+
+
+
+
+ 
+

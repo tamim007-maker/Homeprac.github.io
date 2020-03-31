@@ -1,0 +1,32 @@
+.square-icon i {
+ 	font-size:90px;
+ 	padding: 35px;
+ 	color: #ffffff;
+}
+.circle-icon {
+	margin-top: 30px;
+}
+.circle-icon i{
+	font-size:90px;
+ 	padding: 35px;
+ 	color: #ffffff;
+ 	border-radius: 50%;
+}
+.icon1 i {
+ 	background: #ff0000;
+}
+.icon2 i {
+ 	background: #ff7f00;
+}
+.icon3 i {
+ 	background: #80ff00;
+}
+.icon4 i {
+ 	background: #00FF80;
+}
+.icon5 i {
+ 	background: #0000FF;
+}
+.icon6 i {
+ 	background: #FF00FF;
+}

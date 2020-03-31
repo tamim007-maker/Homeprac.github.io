@@ -1,0 +1,55 @@
+#portfolio {
+	background: #ffdd99;
+	padding: 120px 0;
+	text-align: center;
+
+}
+.portfolio-header p {
+	padding: 0 200px; 
+}
+.underline3 {
+	width: 90px;
+	height: 5px;
+	background: #e5c37f;
+	margin: 10px auto;
+}
+.portfolio-body .button {
+	margin-top: 30px;
+}
+.portfolio-body .button a {
+	background: #ebc985;
+	border-radius: 5px;
+	padding: 5px 20px;
+	color: #393939;
+	margin-right: 10px;
+	font-size: 18px;
+
+}
+.portfolio-body .button a.active {
+	background: #ffffff;
+}
+.portfolio-item img {
+	margin-top: 40px;
+}
+.portfolio-item h4 {
+	color: #60584a;
+	font-size:18px;
+	padding-top: 30px;
+
+}
+
+#portfolio .cta {
+	padding-top:60px; 
+}
+
+
+
+
+#portfolio .cta a {
+	background: #17c2a4;
+	color: #ffffff;
+	padding: 10px 40px;
+	border-bottom: 2px solid #14a58c;
+
+}
+
